@@ -1,0 +1,10 @@
+scheme_yolov3/yolov3.weights
+scheme_yolov3/model.h5
+
+test_ypolo/models/full
+test_ypolo/models/h5
+test_ypolo/models/tiny
+test_ypolo/videos/tokio-480.mp4
+test_ypolo/videos/road_one.mp4
+test_ypolo/videos/video_test_person_360.mp4
+resnet50_coco_best_v2.1.0.h5

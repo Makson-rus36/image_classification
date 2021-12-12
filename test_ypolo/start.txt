@@ -1,0 +1,12 @@
+python main.py --webcam=True --number_camera=2
+python main.py --play_video=True --video_path=videos/road_one.mp4
+python main.py --image=True --image_path=images/people-4-test-in-room.jpg
+
+#Load light model --tiny_model=1
+python main.py --play_video=True --video_path=videos/road_one.mp4 --tiny_model=1
+
+#Load full model --tiny_model=0
+python main.py --play_video=True --video_path=videos/road_one.mp4 --tiny_model=0
+
+#Set speed video --speed_video=value
+python main.py --play_video=True --video_path=videos/tokio-480.mp4 --tiny_model=0 --speed_video=10
