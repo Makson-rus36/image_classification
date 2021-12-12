@@ -8,3 +8,4 @@ test_ypolo/videos/tokio-480.mp4
 test_ypolo/videos/road_one.mp4
 test_ypolo/videos/video_test_person_360.mp4
 resnet50_coco_best_v2.1.0.h5
+resnet50_coco_best_v2.0.1.h5

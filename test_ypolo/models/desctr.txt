@@ -1,0 +1,1 @@
+load from yad and copy folders: full, tiny into folder models: https://yadi.sk/d/FUbmXzsOMcx_CQ
